@@ -1,0 +1,5 @@
+com\jcode\crudprecios\product\ProductService.class
+com\jcode\crudprecios\product\Product.class
+com\jcode\crudprecios\CrudpreciosApplication.class
+com\jcode\crudprecios\product\ProductRepository.class
+com\jcode\crudprecios\product\ProductController.class
